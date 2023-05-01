@@ -1,0 +1,42 @@
+﻿  Assembling func.asm...
+func.asm(1): error A2008: syntax error : .
+func.asm(2): error A2008: syntax error : .
+func.asm(39): error A2070: invalid instruction operands
+func.asm(40): error A2070: invalid instruction operands
+func.asm(45): error A2070: invalid instruction operands
+func.asm(46): error A2070: invalid instruction operands
+func.asm(51): error A2070: invalid instruction operands
+func.asm(52): error A2070: invalid instruction operands
+func.asm(66): error A2070: invalid instruction operands
+func.asm(69): error A2070: invalid instruction operands
+func.asm(70): error A2070: invalid instruction operands
+func.asm(71): error A2070: invalid instruction operands
+func.asm(72): error A2070: invalid instruction operands
+func.asm(78): error A2070: invalid instruction operands
+func.asm(80): error A2070: invalid instruction operands
+func.asm(81): error A2070: invalid instruction operands
+func.asm(85): error A2070: invalid instruction operands
+func.asm(127): error A2070: invalid instruction operands
+func.asm(129): error A2070: invalid instruction operands
+func.asm(130): error A2070: invalid instruction operands
+func.asm(135): error A2070: invalid instruction operands
+func.asm(262): error A2070: invalid instruction operands
+func.asm(278): error A2070: invalid instruction operands
+func.asm(287): error A2070: invalid instruction operands
+func.asm(290): error A2070: invalid instruction operands
+func.asm(291): error A2070: invalid instruction operands
+func.asm(292): error A2070: invalid instruction operands
+func.asm(293): error A2070: invalid instruction operands
+func.asm(296): error A2070: invalid instruction operands
+func.asm(299): error A2070: invalid instruction operands
+func.asm(300): error A2070: invalid instruction operands
+func.asm(301): error A2070: invalid instruction operands
+func.asm(302): error A2070: invalid instruction operands
+func.asm(311): error A2070: invalid instruction operands
+func.asm(314): error A2070: invalid instruction operands
+func.asm(315): error A2070: invalid instruction operands
+func.asm(316): error A2070: invalid instruction operands
+func.asm(317): error A2070: invalid instruction operands
+func.asm(324): error A2008: syntax error : MAIN
+func.asm(324): error A2088: END directive required at end of file
+D:\Dev\VS\VS_common\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\func.obj" /W3 /errorReport:prompt  /Tafunc.asm" с кодом "1".

@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\Projects\Project2\ASM_3\Source.cpp(8,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  ASM_3.vcxproj -> D:\VS\Projects\Project2\ASM_3\Debug\ASM_3.exe

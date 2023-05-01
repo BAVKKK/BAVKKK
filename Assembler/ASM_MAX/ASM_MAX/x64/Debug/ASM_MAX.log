@@ -1,0 +1,42 @@
+﻿  Assembling max.asm...
+max.asm(1): error A2008: syntax error : .
+max.asm(2): error A2008: syntax error : .
+max.asm(39): error A2070: invalid instruction operands
+max.asm(40): error A2070: invalid instruction operands
+max.asm(45): error A2070: invalid instruction operands
+max.asm(46): error A2070: invalid instruction operands
+max.asm(51): error A2070: invalid instruction operands
+max.asm(52): error A2070: invalid instruction operands
+max.asm(66): error A2070: invalid instruction operands
+max.asm(69): error A2070: invalid instruction operands
+max.asm(70): error A2070: invalid instruction operands
+max.asm(71): error A2070: invalid instruction operands
+max.asm(72): error A2070: invalid instruction operands
+max.asm(78): error A2070: invalid instruction operands
+max.asm(80): error A2070: invalid instruction operands
+max.asm(81): error A2070: invalid instruction operands
+max.asm(85): error A2070: invalid instruction operands
+max.asm(127): error A2070: invalid instruction operands
+max.asm(129): error A2070: invalid instruction operands
+max.asm(130): error A2070: invalid instruction operands
+max.asm(135): error A2070: invalid instruction operands
+max.asm(262): error A2070: invalid instruction operands
+max.asm(278): error A2070: invalid instruction operands
+max.asm(287): error A2070: invalid instruction operands
+max.asm(290): error A2070: invalid instruction operands
+max.asm(291): error A2070: invalid instruction operands
+max.asm(292): error A2070: invalid instruction operands
+max.asm(293): error A2070: invalid instruction operands
+max.asm(296): error A2070: invalid instruction operands
+max.asm(299): error A2070: invalid instruction operands
+max.asm(300): error A2070: invalid instruction operands
+max.asm(301): error A2070: invalid instruction operands
+max.asm(302): error A2070: invalid instruction operands
+max.asm(311): error A2070: invalid instruction operands
+max.asm(314): error A2070: invalid instruction operands
+max.asm(315): error A2070: invalid instruction operands
+max.asm(316): error A2070: invalid instruction operands
+max.asm(317): error A2070: invalid instruction operands
+max.asm(324): error A2008: syntax error : MAIN
+max.asm(324): error A2088: END directive required at end of file
+D:\Dev\VS\VS_common\MSBuild\Microsoft\VC\v170\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Debug\max.obj" /W3 /errorReport:prompt  /Tamax.asm" с кодом "1".

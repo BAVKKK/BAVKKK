@@ -1,0 +1,6 @@
+﻿  Assembling MACR.asm...
+  Source.cpp
+D:\Dev\VS_projects\Projects\Project2\RGR_ASM\Source.cpp(13,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\Dev\VS_projects\Projects\Project2\RGR_ASM\Source.cpp(24,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Dev\VS_projects\Projects\Project2\RGR_ASM\Source.cpp(35,20): warning C4018: <: несоответствие типов со знаком и без знака
+  RGR_ASM.vcxproj -> D:\Dev\VS_projects\Projects\Project2\RGR_ASM\Debug\RGR_ASM.exe

@@ -1,0 +1,10 @@
+D:\Dev\VS_projects\Projects\Project2\OTIK3\Debug\OTIK3.vcxproj.AssemblyReference.cache
+D:\Dev\VS_projects\Projects\Project2\OTIK3\Debug\OTIK3.vcxproj.SuggestedBindingRedirects.cache
+D:\Dev\VS_projects\Projects\Project2\OTIK3\Debug\OTIK3.MyForm.resources
+D:\Dev\VS_projects\Projects\Project2\OTIK3\Debug\OTIK3.vcxproj.GenerateResource.cache
+D:\Dev\VS_projects\Projects\Project2\OTIK3\Debug\OTIK3.exe
+D:\CV\OTIK3\Debug\OTIK3.vcxproj.AssemblyReference.cache
+D:\CV\OTIK3\Debug\OTIK3.vcxproj.SuggestedBindingRedirects.cache
+D:\CV\OTIK3\Debug\OTIK3.MyForm.resources
+D:\CV\OTIK3\Debug\OTIK3.vcxproj.GenerateResource.cache
+D:\CV\OTIK3\Debug\OTIK3.exe

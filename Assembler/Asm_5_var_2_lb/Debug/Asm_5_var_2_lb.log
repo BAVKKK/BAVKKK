@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\VS\Projects\Project2\Asm_5_var_2_lb\Source.cpp(10,1): warning C4326:  возвращаемый тип "main" должен быть "int", а не "void"
+  Asm_5_var_2_lb.vcxproj -> D:\VS\Projects\Project2\Asm_5_var_2_lb\Debug\Asm_5_var_2_lb.exe
