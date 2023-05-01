@@ -1,0 +1,6 @@
+﻿  Brain.cpp
+  worker.cpp
+D:\VS\Projects\Project2\Kursa1\Kursa1\Brain.cpp(91,9): warning C4101:  j: неиспользованная локальная переменная
+  Создание кода...
+D:\VS\Projects\Project2\Kursa1\Kursa1\worker.cpp(16,15): warning C4101:  j: неиспользованная локальная переменная
+  Kursa1.vcxproj -> D:\VS\Projects\Project2\Kursa1\Debug\Kursa1.exe
